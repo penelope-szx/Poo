@@ -1,0 +1,3 @@
+class Personagem{
+    atacar(inimigo, arma){
+       this.nome= nome
